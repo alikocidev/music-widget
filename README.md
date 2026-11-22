@@ -2,6 +2,14 @@
 
 [Türkçe](#türkçe) · [English](#english)
 
+**Örnek görünüm · Sample preview**
+
+<img src="docs/images/taskbar-preview.png" width="490" alt="Görev çubuğunun solunda nota ve şarkı adı / Music note and track title on the left of the taskbar">
+
+<img src="docs/images/playback-card-preview.png" width="490" alt="Sol üstte albüm kapağı, sanatçı ve oynatma düğmeleri / Upper-left playback card with cover art, artist and controls">
+
+*Şarkı, sanatçı ve kapak bu örnek için oluşturuldu. / The track, artist and artwork are fictional.*
+
 ## Türkçe
 
 Music Widget, Windows 11 x64 görev çubuğunda bir nota simgesinin yanında Spotify veya YouTube Music’te çalan şarkının adını gösterir. Şarkı değiştiğinde, müziği duraklattığınızda veya devam ettirdiğinizde ana ekranın sol üst köşesinde dört saniyelik bir kart açılır. Kartta albüm kapağı, şarkı adı, sanatçı ve oynatıcının desteklediği düğmeler bulunur. Klavye odağı kullandığınız pencerede kalır.
